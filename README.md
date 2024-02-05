@@ -1,3 +1,10 @@
+# FORK
+
+The purpose of this fork is to rename some characters to change the capitalization. For example : BEATRICE becomes Beatrice
+
+# Original README
+
+
 This project is dedicated, in its entirety, to my beloved Tara.
 
 Reading Umineko together, with this patch, while it was still being worked on,
